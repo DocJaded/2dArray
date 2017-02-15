@@ -1,0 +1,6 @@
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\bin\Debug\2dArray.exe.config
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\bin\Debug\2dArray.exe
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\bin\Debug\2dArray.pdb
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\obj\Debug\2dArray.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\obj\Debug\2dArray.exe
+c:\users\manuel\documents\visual studio 2015\Projects\2dArray\2dArray\obj\Debug\2dArray.pdb
